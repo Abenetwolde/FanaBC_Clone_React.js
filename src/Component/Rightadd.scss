@@ -1,0 +1,28 @@
+// ======= form
+.news__form {
+    display: flex;
+   
+ height: 40px;
+    margin-top: 30px;
+    padding-left: 10px;
+ }
+ 
+ input[type="email"] {
+    border: 0;
+    outline: 0;
+    padding: 10px 20px;
+    
+    border: 1px solid #8f94a1;
+ }
+ 
+ .news__btn {
+    border: none;
+    outline: none;
+    background: transparent;
+    background-color: #FFBC08;
+    padding: 10px 20px;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+ }

@@ -1,0 +1,11 @@
+.i{
+    color: grey!important;
+    font-size: 16px!important;
+   
+}
+
+@media (min-width:576px) {
+    .i{
+     display: none;
+    }
+} 

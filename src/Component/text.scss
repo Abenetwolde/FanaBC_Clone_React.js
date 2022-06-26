@@ -1,0 +1,25 @@
+.textconatiner{
+    margin-top: 40px;
+    margin-left: 50px;
+   display: flex;
+    align-items: center;
+    flex-direction: row;
+    width: 100%;
+    .p1{
+        font-weight: 800;
+        transition: all 0.5 ease-in-out
+    }
+    .i{
+        font-size: 15px;
+    }
+    .p{
+        padding-left: 5px;
+        font-size: 12px;
+    }
+    
+}
+
+.p:hover{
+    color: red;
+    transition: all 0.3s ease-in-out
+}
